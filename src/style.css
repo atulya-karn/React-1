@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.filters{
+    border-right: 1px solid #aaa;
+}
+
+.disp-inline{
+    display: inline;
+    cursor: pointer;
+}
+
+.disp-block{
+    display: block;
+}
+
